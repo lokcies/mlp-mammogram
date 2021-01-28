@@ -1,0 +1,4 @@
+reference
+1. https://stackabuse.com/introduction-to-neural-networks-with-scikit-learn/
+2. https://www.kdnuggets.com/2016/10/beginners-guide-neural-networks-python-scikit-learn.html
+3. https://scikit-neuralnetwork.readthedocs.io/en/latest/module_mlp.html
